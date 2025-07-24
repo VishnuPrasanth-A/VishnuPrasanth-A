@@ -58,8 +58,8 @@ Hardware        : Raspberry Pi, Pi Camera, SSD1306 OLED, Arduino
 ## 📫 Let's Connect!
 
 * 📧 Email: [vishnuprasanth.a.agri44@gmail.com](mailto:vishnuprasanth.a.agri44@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/vishnuprasantha](https://linkedin.com/in/vishnuprasantha1) *(optional, update if you have one)*
-* 🌐 Portfolio Website: Coming Soon...
+* 💼 LinkedIn: [linkedin.com/in/vishnuprasantha](https://linkedin.com/in/vishnuprasantha1) 
+* 🌐 Portfolio Website:https://vishnuprasantha-portfolio.web.app/
 
 ---
 
