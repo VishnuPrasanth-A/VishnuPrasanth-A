@@ -1,12 +1,12 @@
 # Portfolio
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishnuprasanthaagri44&show_icons=true&theme=radical&count_private=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasanthaagri44&layout=compact&theme=radical" height="180" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VishnuPrasanth-A&show_icons=true&theme=radical&count_private=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuPrasanth-A&layout=compact&theme=radical" height="180" /> </p>
 🔥 GitHub Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuprasanthaagri44&theme=radical" /> </p>
-🧮 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuprasanthaagri44&theme=react-dark&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuPrasanth-A&theme=radical" /> </p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuPrasanth-A&theme=react-dark&hide_border=true" /> </p>
 👁️ Visitors
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishnuprasanthaagri44&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=VishnuPrasanth-A&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 # 👋 Hi there, I'm Vishnu Prasanth A
 
