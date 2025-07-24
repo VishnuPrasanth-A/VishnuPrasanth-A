@@ -28,12 +28,16 @@
 ## 🛠️ Technologies & Tools
 
 ```txt
-Languages       : Java, Python, HTML, CSS, JavaScript, SQL, Bash
-Frameworks/Libs : TensorFlow, TFLite, OpenCV, Firebase, JavaFX
-Tools           : Git & GitHub, OWASP ZAP, Nmap, Metasploit, MongoDB
-Hardware        : Raspberry Pi, Pi Camera, SSD1306 OLED, Arduino
-````
-
+Languages        : Java, Python, HTML, CSS, JavaScript, SQL, Bash, JSON, XML
+Frameworks/Libs  : TensorFlow, TFLite, OpenCV, Keras, Firebase, JavaFX, NumPy, Pandas, Matplotlib
+Cybersecurity    : OWASP ZAP, Nmap, Metasploit, Nikto, Enum4linux, Hydra, CVSS Scoring
+Tools            : Git & GitHub, VS Code, IntelliJ IDEA, Eclipse, Postman, Wireshark
+Database         : MongoDB, Firebase Realtime DB, MySQL, SQLite
+Hardware/IoT     : Raspberry Pi, Pi Camera, Arduino, SSD1306 OLED, Relay Module, DHT11/22
+Platforms        : Linux (Ubuntu/Kali), Windows, Android, Raspberry Pi OS
+Cloud & Hosting  : Firebase Hosting, GitHub Pages, Render
+Other Skills     : Image Processing, Real-time Object Detection, Webcam Integration, Ethical Hacking Basics
+```
 ---
 
 ## 🌟 My Values
