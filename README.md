@@ -68,5 +68,3 @@ Other Skills     : Image Processing, Real-time Object Detection, Webcam Integrat
 ---
 
 > “Innovate for impact. Learn for life.”
-
-```
