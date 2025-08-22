@@ -62,7 +62,7 @@ Other Skills     : Image Processing, Real-time Object Detection, Webcam Integrat
 ## 📫 Let's Connect!
 
 * 📧 Email: [vishnuprasanth.a.agri44@gmail.com](mailto:vishnuprasanth.a.agri44@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/vishnuprasantha](https://linkedin.com/in/vishnuprasantha1) 
+* 💼 LinkedIn: [linkedin.com/in/vishnuprasantha1](https://linkedin.com/in/vishnuprasantha1) 
 * 🌐 Portfolio Website:https://vishnuprasanth-a.web.app/
 
 ---
